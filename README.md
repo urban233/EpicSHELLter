@@ -13,3 +13,6 @@ file.
 To install the software, you have to run on **Linux**
 the install.sh script. You can get it, by downloading
 the install-linux.zip from the Release tab.
+
+## Roadmap
+A current [roadmap](https://github.com/urban233/EpicSHELLter/wiki/Roadmap) can be found under the wiki tab of this repository.
