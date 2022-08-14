@@ -1,6 +1,7 @@
 # EpicSHELLter
 This is the official repo for the backup-creation software EpicSHELLter.
 
+<img align="middle" src="https://github.com/urban233/EpicSHELLter/blob/main/assets/images/icon.jpg" width="250" title="EpicSHELLter">
 
 ## Supported Platforms
 - MacOS
