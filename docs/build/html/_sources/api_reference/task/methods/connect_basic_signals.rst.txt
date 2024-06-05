@@ -1,0 +1,13 @@
+﻿TaskResult.connect_basic_signals Method
+=======================================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task
+
+.. currentmodule:: tea.thread.task
+
+.. automethod:: Task.connect_basic_signals

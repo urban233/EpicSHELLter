@@ -1,0 +1,81 @@
+Task Class
+================
+
+.. toctree::
+    :hidden:
+
+    attributes/id
+    attributes/is_canceled
+    attributes/is_completed
+    attributes/status
+    attributes/actions
+    attributes/id_of_last_action
+    methods/_action_started
+    methods/_action_completed
+    methods/_action_ended_with_error
+    methods/connect_basic_signals
+    methods/run
+    methods/run_action
+    methods/setup_action
+
+.. currentmodule:: tea.thread.task
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task
+
+.. autoclass::
+    Task
+
+Inheritance `QObject`_ → Task
+
+.. _QObject: https://www.riverbankcomputing.com/static/Docs/PyQt5/api/qtcore/qobject.html#qobject
+
+Constructor
+-----------
+.. autosummary::
+
+    Task.__init__
+
+Attributes
+----------
+
+.. autosummary::
+
+    ~Task.id
+    ~Task.is_canceled
+    ~Task.is_completed
+    ~Task.status
+    ~Task.actions
+    ~Task.id_of_last_action
+
+Methods
+-------
+
+Private
+*******
+
+.. autosummary::
+
+    ~Task._action_started
+    ~Task._action_completed
+    ~Task._action_ended_with_error
+
+Public
+******
+
+.. autosummary::
+
+    ~Task.connect_basic_signals
+    ~Task.run
+
+Static Methods
+--------------
+
+.. autosummary::
+
+    ~Task.run_action
+    ~Task.setup_action

@@ -1,0 +1,30 @@
+TaskFactory Class
+=================
+
+.. toctree::
+    :hidden:
+
+    methods/run_task
+
+.. currentmodule:: tea.thread.task_factory
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task_factory
+
+.. autoclass::
+    TaskFactory
+
+Inheritance `Object`_ → TaskFactory
+
+.. _Object: https://docs.python.org/3/library/functions.html#object
+
+Static Methods
+--------------
+
+.. autosummary::
+
+    ~TaskFactory.run_task

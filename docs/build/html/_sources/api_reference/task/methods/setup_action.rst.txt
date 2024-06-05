@@ -1,0 +1,13 @@
+﻿TaskResult.setup_action Method
+==============================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task
+
+.. currentmodule:: tea.thread.task
+
+.. automethod:: Task.setup_action

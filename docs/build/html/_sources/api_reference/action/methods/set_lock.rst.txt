@@ -1,0 +1,13 @@
+﻿Action.set_lock Method
+======================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.action
+
+.. currentmodule:: tea.thread.action
+
+.. automethod:: Action.set_lock

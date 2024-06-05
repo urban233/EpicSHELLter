@@ -1,0 +1,13 @@
+Task.is_canceled Attribute
+==========================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task
+
+.. currentmodule:: tea.thread.task
+
+.. autoattribute:: Task.is_canceled

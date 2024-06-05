@@ -1,0 +1,71 @@
+Action Class
+============
+
+.. toctree::
+    :hidden:
+
+    attributes/id
+    attributes/_signals
+    attributes/_target
+    attributes/_args
+    attributes/_lock
+    attributes/is_runnable
+    methods/get_finished_signal
+    methods/get_result_signal
+    methods/set_lock
+    methods/connect_started_signal
+    methods/connect_error_signal
+    methods/connect_finished_signal
+    methods/connect_result_signal
+    methods/run
+
+.. currentmodule:: tea.thread.action
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.action
+
+.. autoclass::
+    Action
+
+Inheritance `QRunnable`_ → Action
+
+.. _QRunnable: https://www.riverbankcomputing.com/static/Docs/PyQt5/api/qtcore/qrunnable.html#qrunnable
+
+Constructor
+-----------
+.. autosummary::
+
+    Action.__init__
+
+Attributes
+----------
+
+.. autosummary::
+
+    ~Action.id
+    ~Action._signals
+    ~Action._target
+    ~Action._args
+    ~Action._lock
+    ~Action.is_runnable
+
+Methods
+-------
+
+Public
+******
+
+.. autosummary::
+
+    ~Action.get_finished_signal
+    ~Action.get_result_signal
+    ~Action.set_lock
+    ~Action.connect_started_signal
+    ~Action.connect_error_signal
+    ~Action.connect_finished_signal
+    ~Action.connect_result_signal
+    ~Action.run

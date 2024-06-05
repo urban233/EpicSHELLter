@@ -1,0 +1,13 @@
+﻿TaskScheduler.threadpool Attribute
+==================================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task_scheduler
+
+.. currentmodule:: tea.thread.task_scheduler
+
+.. autoattribute:: TaskScheduler.threadpool

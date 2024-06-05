@@ -1,0 +1,13 @@
+﻿TaskResult.\_save\_single\_action\_result Method
+================================================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.task_result
+
+.. currentmodule:: tea.thread.task_result
+
+.. automethod:: TaskResult._save_single_action_result

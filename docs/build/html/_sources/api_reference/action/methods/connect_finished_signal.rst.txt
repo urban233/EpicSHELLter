@@ -1,0 +1,13 @@
+﻿Action.connect_finished_signal Method
+=====================================
+
+Definition
+----------
+
+**Package**: tea.thread
+
+**Module**: tea.thread.action
+
+.. currentmodule:: tea.thread.action
+
+.. automethod:: Action.connect_finished_signal
