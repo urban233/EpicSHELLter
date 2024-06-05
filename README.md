@@ -1,5 +1,5 @@
 # EpicSHELLter
-This is the official repo for the backup-creation software EpicSHELLter.
+EpicSHELLter is a small and basic backup-creation software written in Python.
 
 ## Supported Platforms
 - MacOS
