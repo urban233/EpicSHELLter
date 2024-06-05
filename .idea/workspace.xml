@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02c104b-c8b7-4ab7-aa83-f8ada62a570c" name="Changes" comment="" />
+    <list default="true" id="b02c104b-c8b7-4ab7-aa83-f8ada62a570c" name="Changes" comment="Moved sphinx files to a more top level directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "gh-pages",
-    "last_opened_file_path": "C:/Users/student/github_repos/EpicSHELLter/docs/make.bat",
+    "last_opened_file_path": "C:/Users/student/github_repos/EpicSHELLter/gh_pages_site",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -36,6 +36,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\github_repos\EpicSHELLter\gh_pages_site" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,11 +56,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717602811851</updated>
-      <workItem from="1717602813068" duration="1814000" />
+      <workItem from="1717602813068" duration="2122000" />
     </task>
+    <task id="LOCAL-00001" summary="Add sphinx files">
+      <option name="closed" value="true" />
+      <created>1717606448100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717606448100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Moved sphinx files to a more top level directory">
+      <option name="closed" value="true" />
+      <created>1717606717867</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717606717867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add sphinx files" />
+    <MESSAGE value="Moved sphinx files to a more top level directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved sphinx files to a more top level directory" />
   </component>
 </project>
