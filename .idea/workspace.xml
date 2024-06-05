@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02c104b-c8b7-4ab7-aa83-f8ada62a570c" name="Changes" comment="Moved sphinx files to a more top level directory" />
+    <list default="true" id="b02c104b-c8b7-4ab7-aa83-f8ada62a570c" name="Changes" comment="Rearranged sphinx files">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy_sphinx.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +42,10 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\student\github_repos\EpicSHELLter\gh_pages_site" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\github_repos\EpicSHELLter\docs" />
+      <recent name="C:\Users\student\github_repos\EpicSHELLter\site_source" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -56,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717602811851</updated>
-      <workItem from="1717602813068" duration="2122000" />
+      <workItem from="1717602813068" duration="2916000" />
     </task>
     <task id="LOCAL-00001" summary="Add sphinx files">
       <option name="closed" value="true" />
@@ -74,7 +80,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717606717867</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Rearranged sphinx files">
+      <option name="closed" value="true" />
+      <created>1717606861773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717606861773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add sphinx files" />
     <MESSAGE value="Moved sphinx files to a more top level directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved sphinx files to a more top level directory" />
+    <MESSAGE value="Rearranged sphinx files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rearranged sphinx files" />
   </component>
 </project>
